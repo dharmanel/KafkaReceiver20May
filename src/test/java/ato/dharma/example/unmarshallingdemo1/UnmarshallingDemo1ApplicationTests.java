@@ -1,0 +1,13 @@
+package ato.dharma.example.unmarshallingdemo1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class UnmarshallingDemo1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
